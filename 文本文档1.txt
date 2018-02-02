@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2、thank you
 3、测试文本
 5、hahaha哈哈
+=======
+1��hello world
+2��thank you
+>>>>>>> parent of 809d722... 第二次修改
