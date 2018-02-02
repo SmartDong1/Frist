@@ -1,14 +1,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-2ã€thank you
-3ã€æµ‹è¯•æ–‡æœ¬
-5ã€hahahaå“ˆå“ˆ
 =======
 1¡¢hello world
 2¡¢thank you
->>>>>>> parent of 809d722... ç¬¬äºŒæ¬¡ä¿®æ”¹
-=======
+>>>>>>> parent of 809d722... ?=======
 2¡¢thank you
 3¡¢²âÊÔÎÄ±¾
 5¡¢hahaha¹ş¹ş
->>>>>>> parent of 26ba054... ç¬¬å››æ¬¡ä¿®æ”¹
+>>>>>>> parent of 26ba054... ?
